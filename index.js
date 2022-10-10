@@ -1,7 +1,5 @@
-let name = "MASAI SCHOOL";
+let num = 15;
 
-console.log(name);
-
-let name2 = "A Transformation in Education";
-
-console.log(name2);
+if(num%3==0){
+  console.log("multiple by 3" )
+}
